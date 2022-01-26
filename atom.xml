@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.blissroms.org/</id>
     <title>BlissRoms Blog Blog</title>
-    <updated>2022-01-11T00:00:00.000Z</updated>
+    <updated>2022-01-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.blissroms.org/"/>
     <subtitle>BlissRoms Blog Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[BlissRoms Arcadia v15.1 January 2022 Release]]></title>
+        <id>2022-01-26-arcadia-15.1-updates-jan-2022</id>
+        <link href="https://blog.blissroms.org/2022-01-26-arcadia-15.1-updates-jan-2022"/>
+        <updated>2022-01-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! Here is this month's worth of updates.]]></summary>
+        <content type="html"><![CDATA[<p>Hello everyone! Here is this month&#x27;s worth of updates.</p><h1>BlissRoms</h1><p>This week, we’re releasing BlissRoms Arcadia v15.1 The changelog is the following:</p><ul><li>Merged Jan Security Patch</li><li>Added FPS Tile</li><li>Require unlocking for Tiles</li><li>Charging Animation Toggle</li><li>Screenrecord fixes</li><li>Heptic feedback on gestures</li><li>Navigation mode settings</li><li>Vibration Patterns</li><li>Lockscreen Power Info Fixes</li><li>Monet Customizations</li><li>Hide Call Strength icons</li><li>Notification Counters</li><li>Auto Hide statusbar clock</li><li>Hide Navbar options</li><li>Added Icon Pack Support</li><li>Pulse and Ambient Notifications</li><li>Flash light on call</li><li>Added ability to toggle bluetooth battery level</li><li>Font Customizations</li><li>Added Double tap to trigger doze</li><li>Added Custom Statusbar Icons Support</li><li>Added new Volte icon customizations</li><li>Added customisable Vowifi icons</li><li>Adjusted paddings for big notched devices</li><li>Added new status bar Signal and Wi-Fi icons</li><li>Fixup for status bar battery percentage in landscape</li><li>Added alert slider support</li><li>Added some customizations for AOD</li><li>Fixup for changing gesture pill length</li><li>Fixup for NetworkTraffic UI on expanded QS</li><li>Lots of under the hood changes</li><li>Misc Optimizations</li></ul><p>With this release, we support the following devices:</p><pre><code>Xiaomi Redmi Note 8 / 8T (ginkgo)
+Samsung Galaxy Note 9 (crownlte)
+Samsung Galaxy S9 (starlte)
+Samsung Galaxy S9+ (star2lte)
+</code></pre><p>Sadly following devices are dropped from Official Status</p><pre><code>Poco X3 NFC (surya)
+Xiaomi Redmi 4 (santoni)
+Google Pixel 4 XL (coral)
+Google Pixel 5 (redfin)
+</code></pre><p>If anyone would like to maintain BlissRoms for their devices then kindly apply for it using this link <a href="https://maintainers.blissroms.org">https://maintainers.blissroms.org</a></p><p>That’s it for this month! Happy flashing!</p><p>#StayBlissful</p>]]></content>
+        <author>
+            <name>Aryan Arora</name>
+            <uri>https://github.com/AruAA</uri>
+        </author>
+        <author>
+            <name>Jackeagle</name>
+            <uri>https://github.com/Jackeagle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arcadia Maintainer applications now open!]]></title>
         <id>2022-01-11-arcadia-maintainer-applications-now-open</id>
