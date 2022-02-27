@@ -4,9 +4,21 @@
         <title>BlissRoms Blog Blog</title>
         <link>https://blog.blissroms.org/</link>
         <description>BlissRoms Blog Blog</description>
-        <lastBuildDate>Wed, 26 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BlissRoms Arcadia v15.2 February 2022 Release]]></title>
+            <link>https://blog.blissroms.org/2022-02-26-arcadia-15.2-updates-feb-2022</link>
+            <guid>2022-02-26-arcadia-15.2-updates-feb-2022</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello everyone! Here is this month's worth of updates.]]></description>
+            <content:encoded><![CDATA[<p>Hello everyone! Here is this month&#x27;s worth of updates.</p><h1>BlissRoms</h1><p>This week, we’re releasing BlissRoms Arcadia v15.2 The changelog is the following:</p><ul><li>Merged Feb Security Patch Release</li><li>Added Touch Gestures Support</li><li>Added On-The-Go Mode</li><li>Added Screen Off Animations</li><li>Added Screen off FOD</li><li>Added Tap battery icon to open battery settings</li><li>Network Traffic Improvements</li><li>Pulse on new tracks</li><li>Added Burn-in protection for Statusbar and Navbar</li><li>Added UDFPS haptic feedback settings</li><li>Added support for Battery saver refresh rate</li><li>Media Artwork processor improvements </li><li>Monet Customizations improvements</li><li>Monet colors on Power Menu</li><li>Quick Settings Tiles improvements</li><li>Added FOD Pressed colors</li><li>Alert Slider Customizations</li><li>Option to disable night light on FOD</li><li>Added Icon Shapes from Android 11</li><li>Headsup blacklist/stoplists improvements</li><li>Headsup timeout improvements</li><li>Wifi Timeout feature</li><li>Bluetooth timeout</li><li>UDFPS Improvements</li><li>Legacy Camera support</li><li>Navbar improvements</li><li>System wide gestures improvements</li><li>Vibrate on gestures</li><li>Added switch last app to gesture actions</li><li>Added toggle for location privacy indicator</li><li>Added Monet support for UDFPS</li><li>Icon pack updates</li><li>Adaptive Playback</li><li>Pulse Customizations</li><li>Added toggle for floating rotation button </li><li>Add Round Lines to solid render</li><li>Location privacy indicator toggle improvements</li><li>UDFPS Icons Customization</li><li>UDFPS Animations Customizations</li><li>Notification Counter improvements</li><li>QS Disable on Lock Screen</li><li>Allow toggling camera/mic privacy indicators</li><li>Added acherus icon pack</li><li>FPSInfo improvements</li><li>User Selectable UDFPS Icon</li><li>New Gapps Package</li><li>Themed Icons</li><li>Custom Themes Support</li><li>Settings Preference Redesign</li><li>Lots of under the hood improvements and fixes</li></ul><p>With this release, we are excited to announce support for following devices:</p><pre><code>Google Pixel 6 Pro (Raven)
+Poco X3 Pro (vayu)
+Redmi Note 6 Pro (tulip)
+Asus Max Pro M1 (X00TD)
+</code></pre><p>If anyone would like to maintain BlissRoms for their devices then kindly apply for it using this link <a href="https://maintainers.blissroms.org">https://maintainers.blissroms.org</a></p><p>That’s it for this month! Happy flashing!</p><p>#StayBlissful</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[BlissRoms Arcadia v15.1 January 2022 Release]]></title>
             <link>https://blog.blissroms.org/2022-01-26-arcadia-15.1-updates-jan-2022</link>
