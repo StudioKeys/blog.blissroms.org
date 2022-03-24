@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.blissroms.org/</id>
     <title>BlissRoms Blog Blog</title>
-    <updated>2022-02-26T00:00:00.000Z</updated>
+    <updated>2022-03-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.blissroms.org/"/>
     <subtitle>BlissRoms Blog Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[BlissRoms Arcadia v15.3 March 2022 Release]]></title>
+        <id>2022-03-24-arcadia-15.3-updates-march-2022</id>
+        <link href="https://blog.blissroms.org/2022-03-24-arcadia-15.3-updates-march-2022"/>
+        <updated>2022-03-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! Here is this month's worth of updates.]]></summary>
+        <content type="html"><![CDATA[<p>Hello everyone! Here is this month's worth of updates.</p><h1>BlissRoms</h1><p>As we prepare for release of BlissRoms with Android 12L scheduled next month, this week, we’re releasing BlissRoms Arcadia v15.3 The changelog is the following:</p><ul><li>Add app lock and face unlock support</li><li>Bring back Network Traffic Indicator for all</li><li>Add OOS style network traffic indicator</li><li>Add call recording support for Google Dialer</li><li>Fix issue where pill disappears in gestural mode</li><li>Fix glitchy charging info on lockscreen</li><li>Add systemwide black theme</li><li>Allow to use old style icons as default</li><li>Bring back ThemeUtils for Theming</li><li>Add optional screenshot type</li><li>Add public setting keys for monet tunables</li><li>Add user toggle for unlimited photos storage</li><li>Add support for one shot auto-brightness</li><li>Add CPU info overlay</li><li>Support per-app volume</li><li>Implement cutout force full screen</li><li>Fix BatteryStats counts foreground activity time</li><li>Fix full draw power usage increase issue</li><li>Introduce PUI iconpack</li><li>Add Android 12L style Internet and Screenrecord dialogs</li><li>Add Android 13 inspired Media Output Picker</li><li>Implement default udfps hbm provider</li><li>Bypass hw attestation on newer pixel devices</li><li>Add Tethering and SystemUI to location indicator whitelist</li><li>Lots of under the hood improvements and fixes</li></ul><p>With this release, we are excited to announce support for following devices:</p><div class="codeBlockContainer_I0IT theme-code-block"><div class="codeBlockContent_wNvx"><pre tabindex="0" class="prism-code language-text codeBlock_jd64 thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_mRuA"><span class="token-line" style="color:#393A34"><span class="token plain">Poco F2 Pro (LMI)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">OnePlus Nord (avicii)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Asus ROG 2 (I001D)</span><br></span></code></pre><button type="button" aria-label="Copy code to clipboard" class="copyButton_wuS7 clean-btn">Copy</button></div></div><p>If anyone would like to maintain BlissRoms for their devices then kindly apply for it using this link <a href="https://maintainers.blissroms.org" target="_blank" rel="noopener noreferrer">https://maintainers.blissroms.org</a></p><p>That’s it for this month! Happy flashing!</p><p>#StayBlissful</p>]]></content>
+        <author>
+            <name>Aryan Arora</name>
+            <uri>https://github.com/AruAA</uri>
+        </author>
+        <author>
+            <name>Jackeagle</name>
+            <uri>https://github.com/Jackeagle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlissRoms Arcadia v15.2 February 2022 Release]]></title>
         <id>2022-02-26-arcadia-15.2-updates-feb-2022</id>
