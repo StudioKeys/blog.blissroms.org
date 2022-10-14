@@ -4,10 +4,22 @@
         <title>BlissRoms Blog Blog</title>
         <link>https://blog.blissroms.org/</link>
         <description>BlissRoms Blog Blog</description>
-        <lastBuildDate>Sat, 23 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[BlissRoms codenamed Typhoon now available]]></title>
+            <link>https://blog.blissroms.org/2022-10-14-typhoon-16.0-updates-oct-2022</link>
+            <guid>2022-10-14-typhoon-16.0-updates-oct-2022</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello everyone! The entire Team Bliss is elated to announce that our latest BlissRoms codenamed Typhoon release based on Android 13, is now available to the general public.]]></description>
+            <content:encoded><![CDATA[<p>Hello everyone! The entire Team Bliss is elated to announce that our latest BlissRoms codenamed Typhoon release based on Android 13, is now available to the general public.</p><p>Here is the list of currently supported devices for BlissRoms Typhoon:</p><div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">Asus ROG 2 (I001D)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Asus ROG 3 (obiwan)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Asus 5z (Z01R)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Asus 6z (I01WD)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Asus Zenfone Max Pro M2 (X01BD)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">OnePlus 6T (fajita)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">OnePlus 7 Pro (guacamole)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">OnePlus 9 Pro (lemonadep)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Pixel 6 (oriole)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Pixel 6a (bluejay)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Pixel 6 Pro (raven)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Realme XT (RMX1921)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Xiaomi Poco F2 Pro (lmi)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Xiaomi Redmi K40 Pro / Redmi K40 Pro+ / Mi 11X Pro / Mi 11i (haydn)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Xiaomi Redmi Note 9 Pro (curtana)</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>If anyone would like to maintain BlissRoms for their devices then kindly apply for it using this link <a href="https://forms.gle/LkRgFXzpH1hZLmXD7" target="_blank" rel="noopener noreferrer">https://forms.gle/LkRgFXzpH1hZLmXD7</a></p><p>That’s it for this month! Happy flashing!
+#StayBlissful #FeelTheWind🌪</p>]]></content:encoded>
+            <category>typhoon</category>
+            <category>bliss16</category>
+            <category>android13</category>
+        </item>
         <item>
             <title><![CDATA[BlissRoms Arcadia v15.7 July 2022 Release]]></title>
             <link>https://blog.blissroms.org/2022-07-23-arcadia-15.7-updates-july-2022</link>
