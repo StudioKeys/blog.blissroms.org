@@ -4,10 +4,22 @@
         <title>BlissRoms Blog Blog</title>
         <link>https://blog.blissroms.org/</link>
         <description>BlissRoms Blog Blog</description>
-        <lastBuildDate>Fri, 14 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[BlissRoms 16.1 codenamed Typhoon now available]]></title>
+            <link>https://blog.blissroms.org/2022-11-14-typhoon-16.1-updates-nov-2022</link>
+            <guid>2022-11-14-typhoon-16.1-updates-nov-2022</guid>
+            <pubDate>Mon, 14 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello everyone! Here is this month's worth of updates.]]></description>
+            <content:encoded><![CDATA[<p>Hello everyone! Here is this month's worth of updates.</p><h1>BlissRoms</h1><p>This week, we’re releasing BlissRoms Typhoon v16.1 The changelog is the following:</p><ul><li>Merged with November Security Patch Release</li><li>Added the option to change Lockscreen Date and Widget Fonts</li><li>Less boring HeadsUp</li><li>HeadsUp Customization</li><li>StatusBar Clock Customizations</li><li>Hide Call Strength in StatusBar</li><li>User-selectable VoWiFi Icons</li><li>User-selectabel VoLTE Icons</li><li>Optional Roaming Indicator</li><li>Network Traffic Layout</li><li>Newer fonts being added</li><li>BlissUpdater</li><li>Live Volume Steps</li><li>Runtime configurable Audio Panel Location</li><li>Hide LockScreen Shortcuts on Secure LockScreen</li><li>AOD on Charging</li><li>Burn-In Protection Support</li><li>NTFS support</li><li>Misc Improvements and Fixes</li></ul><p>With this release, we are excited to announce support for following devices:</p><div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">Xiaomi Poco X2 / Redmi K30 (phoenix)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Redmi Note 9S (curtana)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Redmi Note 10 Pro/Pro Max (sweet)</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>If anyone would like to maintain BlissRoms for their devices then kindly apply for it using this link <a href="https://forms.gle/LkRgFXzpH1hZLmXD7" target="_blank" rel="noopener noreferrer">https://forms.gle/LkRgFXzpH1hZLmXD7</a></p><p>That’s it for this month! Happy flashing!
+#StayBlissful #FeelTheWind🌪</p>]]></content:encoded>
+            <category>typhoon</category>
+            <category>bliss16</category>
+            <category>android13</category>
+        </item>
         <item>
             <title><![CDATA[BlissRoms codenamed Typhoon now available]]></title>
             <link>https://blog.blissroms.org/2022-10-14-typhoon-16.0-updates-oct-2022</link>
