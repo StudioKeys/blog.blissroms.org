@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.blissroms.org/</id>
     <title>BlissRoms Blog Blog</title>
-    <updated>2022-11-14T00:00:00.000Z</updated>
+    <updated>2022-12-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.blissroms.org/"/>
     <subtitle>BlissRoms Blog Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[BlissRoms 16.2 codenamed Typhoon now available]]></title>
+        <id>2022-12-06-typhoon-16.2-updates-dec-2022</id>
+        <link href="https://blog.blissroms.org/2022-12-06-typhoon-16.2-updates-dec-2022"/>
+        <updated>2022-12-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! Here is this month's worth of updates.]]></summary>
+        <content type="html"><![CDATA[<p>Hello everyone! Here is this month's worth of updates.</p><h1>BlissRoms</h1><p>This week, we’re releasing BlissRoms Typhoon v16.2 The changelog is the following:</p><ul><li>Added Face Unlock support</li><li>Added more fonts to the option to change Lockscreen Date and Widget Fonts</li><li>Addition of reTicker </li><li>StatusBar/QS Logo Additions of your choice</li><li>Allow to customize StatusBar Padding in devices with notches and Hole Punches</li><li>Addition of Edge Lighting</li><li>Game Space Additions</li><li>Battery Bar support</li><li>Redesign Refresh Rate Section</li><li>Option to unlink between ringer and Notification Sounds</li><li>Addition of Increasing Ring feature</li><li>Quick Unlock on PIN/Passwords</li><li>Pocket Mode support</li><li>Adaptive PlayBack</li><li>Force close app via Notification Guts</li><li>Rotation customization</li><li>Optimizations done to the Contacts and Messaging apps</li><li>Misc Improvements and Fixes</li></ul><p>With this release, we are excited to announce support for following devices:</p><div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">Google Pixel 6a (bluejay)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Redmi Note 8 Pro (begonia)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Redmi 9T/Poco M3 (chime)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Google Pixel 6 (oriole)</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Google Pixel 6 Pro (raven)</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>Kind Note that December patches which came out recently are the Quarterly Patches that Google releases every 4 months, so it will be merged onto source at a later time and would be informed here once merged.</p><p>If anyone would like to maintain BlissRoms for their devices then kindly apply for it using this link <a href="https://forms.gle/LkRgFXzpH1hZLmXD7" target="_blank" rel="noopener noreferrer">https://forms.gle/LkRgFXzpH1hZLmXD7</a></p><p>That’s it for this month! Happy flashing!
+#StayBlissful #FeelTheWind🌪</p>]]></content>
+        <author>
+            <name>Jis G Jacob</name>
+            <uri>https://github.com/StudioKeys</uri>
+        </author>
+        <author>
+            <name>Aryan Arora</name>
+            <uri>https://github.com/AruAA</uri>
+        </author>
+        <author>
+            <name>Jackeagle</name>
+            <uri>https://github.com/Jackeagle</uri>
+        </author>
+        <category label="typhoon" term="typhoon"/>
+        <category label="bliss16" term="bliss16"/>
+        <category label="android13" term="android13"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlissRoms 16.1 codenamed Typhoon now available]]></title>
         <id>2022-11-14-typhoon-16.1-updates-nov-2022</id>
