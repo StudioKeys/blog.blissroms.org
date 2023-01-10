@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.blissroms.org/</id>
     <title>BlissRoms Blog Blog</title>
-    <updated>2022-12-06T00:00:00.000Z</updated>
+    <updated>2023-01-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.blissroms.org/"/>
     <subtitle>BlissRoms Blog Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[BlissRoms 16.3 codenamed Typhoon now available]]></title>
+        <id>2023-01-10-typhoon-16.3-updates-jan-2022</id>
+        <link href="https://blog.blissroms.org/2023-01-10-typhoon-16.3-updates-jan-2022"/>
+        <updated>2023-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! Here is this month's worth of updates.]]></summary>
+        <content type="html"><![CDATA[<p>Hello everyone! Here is this month's worth of updates.</p><h1>BlissRoms</h1><p>This week, we’re releasing BlissRoms Typhoon v16.3 The changelog is the following:</p><ul><li>Merged January Security Patches</li><li>Entire rebase from Dec Patches</li><li>Added Face Unlock support</li><li>Inclusion Of Launcher3 in both Gapps and vanilla builds</li><li>Hidden Apps Feature</li><li>Per-app Volume</li><li>Left Volume Panel</li><li>Addition of Pitch Black Theme </li><li>Pulse Options in LS and Ambient/AOD panels</li><li>Ditch the panda style QS for pure light mode </li><li>Google Photos Unlimited by default</li><li>Misc Improvements and Fixes</li></ul><p>If anyone would like to maintain BlissRoms for their devices then kindly apply for it using this link <a href="https://forms.gle/LkRgFXzpH1hZLmXD7" target="_blank" rel="noopener noreferrer">https://forms.gle/LkRgFXzpH1hZLmXD7</a></p><p>That’s it for this month! Happy flashing!
+#StayBlissful #FeelTheWind🌪</p>]]></content>
+        <author>
+            <name>Jis G Jacob</name>
+            <uri>https://github.com/StudioKeys</uri>
+        </author>
+        <author>
+            <name>Aryan Arora</name>
+            <uri>https://github.com/AruAA</uri>
+        </author>
+        <author>
+            <name>Jackeagle</name>
+            <uri>https://github.com/Jackeagle</uri>
+        </author>
+        <category label="typhoon" term="typhoon"/>
+        <category label="bliss16" term="bliss16"/>
+        <category label="android13" term="android13"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlissRoms 16.2 codenamed Typhoon now available]]></title>
         <id>2022-12-06-typhoon-16.2-updates-dec-2022</id>
@@ -195,30 +219,6 @@ Special thanks to Akshett Jindal for his incredible work in making a Telegram Re
             <name>Eric Park</name>
             <uri>https://github.com/ericswpark</uri>
         </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlissRoms 16.3 codenamed Typhoon now available]]></title>
-        <id>2023-01-10-typhoon-16.3-updates-jan-2023</id>
-        <link href="https://blog.blissroms.org/2023-01-10-typhoon-16.3-updates-jan-2023"/>
-        <updated>2022-01-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone! Here is this month's worth of updates.]]></summary>
-        <content type="html"><![CDATA[<p>Hello everyone! Here is this month's worth of updates.</p><h1>BlissRoms</h1><p>This week, we’re releasing BlissRoms Typhoon v16.3 The changelog is the following:</p><ul><li>Merged January Security Patches</li><li>Entire rebase from Dec Patches</li><li>Added Face Unlock support</li><li>Inclusion Of Launcher3 in both Gapps and vanilla builds</li><li>Hidden Apps Feature</li><li>Per-app Volume</li><li>Left Volume Panel</li><li>Addition of Pitch Black Theme </li><li>Pulse Options in LS and Ambient/AOD panels</li><li>Ditch the panda style QS for pure light mode </li><li>Google Photos Unlimited by default</li><li>Misc Improvements and Fixes</li></ul><p>If anyone would like to maintain BlissRoms for their devices then kindly apply for it using this link <a href="https://forms.gle/LkRgFXzpH1hZLmXD7" target="_blank" rel="noopener noreferrer">https://forms.gle/LkRgFXzpH1hZLmXD7</a></p><p>That’s it for this month! Happy flashing!
-#StayBlissful #FeelTheWind🌪</p>]]></content>
-        <author>
-            <name>Jis G Jacob</name>
-            <uri>https://github.com/StudioKeys</uri>
-        </author>
-        <author>
-            <name>Aryan Arora</name>
-            <uri>https://github.com/AruAA</uri>
-        </author>
-        <author>
-            <name>Jackeagle</name>
-            <uri>https://github.com/Jackeagle</uri>
-        </author>
-        <category label="typhoon" term="typhoon"/>
-        <category label="bliss16" term="bliss16"/>
-        <category label="android13" term="android13"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[BlissRoms codenamed Arcadia now available]]></title>
