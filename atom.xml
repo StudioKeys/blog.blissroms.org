@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.blissroms.org/</id>
     <title>BlissRoms Blog Blog</title>
-    <updated>2023-01-10T00:00:00.000Z</updated>
+    <updated>2023-02-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.blissroms.org/"/>
     <subtitle>BlissRoms Blog Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[BlissRoms 16.4 codenamed Typhoon now available]]></title>
+        <id>2023-02-17-typhoon-16.4-updates-feb-2023</id>
+        <link href="https://blog.blissroms.org/2023-02-17-typhoon-16.4-updates-feb-2023"/>
+        <updated>2023-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! Here is this month's worth of updates.]]></summary>
+        <content type="html"><![CDATA[<p>Hello everyone! Here is this month's worth of updates.</p><h1>BlissRoms</h1><p>This week, we’re releasing BlissRoms Typhoon v16.4 The changelog is the following:</p><ul><li>Merged February Security Patches</li><li>Updated PixelPropsUtils to make SafetyNet working again</li><li>Bringing Back A11 QS Style with transparency and icon customizations</li><li>Selection of using Cloudflare DNS</li><li>Inclusion Of Launcher3 Taskbar and other changes</li><li>Introduction of LockScreen Media Art</li><li>Updated Clock, Dialer, Contacts and Messaging apps for Vanilla</li><li>Addition of Etar, YetCalc onto Vanilla builds</li><li>New and more UDFPS icons being added</li><li>Redesign the Recents view Style</li><li>Misc Improvements and Fixes</li></ul><p>If anyone would like to maintain BlissRoms for their devices then kindly apply for it using this link <a href="https://forms.gle/LkRgFXzpH1hZLmXD7" target="_blank" rel="noopener noreferrer">https://forms.gle/LkRgFXzpH1hZLmXD7</a></p><p>That’s it for this month! Happy flashing!
+#StayBlissful #FeelTheWind🌪</p>]]></content>
+        <author>
+            <name>Jis G Jacob</name>
+            <uri>https://github.com/StudioKeys</uri>
+        </author>
+        <author>
+            <name>Aryan Arora</name>
+            <uri>https://github.com/AruAA</uri>
+        </author>
+        <author>
+            <name>Jackeagle</name>
+            <uri>https://github.com/Jackeagle</uri>
+        </author>
+        <category label="typhoon" term="typhoon"/>
+        <category label="bliss16" term="bliss16"/>
+        <category label="android13" term="android13"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlissRoms 16.3 codenamed Typhoon now available]]></title>
         <id>2023-01-10-typhoon-16.3-updates-jan-2022</id>
