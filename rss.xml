@@ -9,16 +9,16 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[typhoon-16.5-updates-mar-2023]]></title>
-            <link>https://blog.blissroms.org/2023/03/18/2023/typhoon-16.5-updates-mar-2023</link>
-            <guid>/2023/03/18/2023/typhoon-16.5-updates-mar-2023</guid>
+            <title><![CDATA[BlissRoms 16.5 codenamed Typhoon now available]]></title>
+            <link>https://blog.blissroms.org/2023-03-18-typhoon-16.5-updates-mar-2023</link>
+            <guid>2023-03-18-typhoon-16.5-updates-mar-2023</guid>
             <pubDate>Sat, 18 Mar 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[title: "BlissRoms 16.5 codenamed Typhoon now available"]]></description>
-            <content:encoded><![CDATA[<p>title: "BlissRoms 16.5 codenamed Typhoon now available"
-authors: <!-- -->[studiokeys, aryan, jackeagle]<!-- -->
-date: 2023-03-18
-comments: true</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="tags-typhoon-bliss16-android13">tags: <!-- -->[typhoon, bliss16, android13]<a class="hash-link" href="#tags-typhoon-bliss16-android13" title="Direct link to heading">​</a></h2><p>Hello everyone! Here is this month's worth of updates.</p><h1>BlissRoms</h1><p>This week, we’re releasing BlissRoms Typhoon v16.5 The changelog is the following:</p><ul><li>Merged February Security Patches</li><li>Bringing Back A11 QS Style with transparency and icon customizations</li><li>Introduction of Aperture Camera as default</li><li>Inclusion of dynamic VoLTE and VoWiFi icons</li><li>Parallel Space Improvements</li><li>Inclusion Of Launcher3 Taskbar completely and other changes</li><li>Introduction of LockScreen Media Art Blur and filters</li><li>Introduction of App Lock</li><li>Bringing back data disabled icon toggles and other statusbar tweaks</li><li>Update APNs for some telecos</li><li>Redesign the Recents view Style along with task locks to recents.</li><li>Misc Improvements and Fixes</li></ul><p>Kind Note that March patches which are going to come out are the Quarterly Patches that Google releases every 4 months, so it will be merged onto source at a later time and would be informed here once merged.</p><p>If anyone would like to maintain BlissRoms for their devices then kindly apply for it using this link <a href="https://forms.gle/LkRgFXzpH1hZLmXD7" target="_blank" rel="noopener noreferrer">https://forms.gle/LkRgFXzpH1hZLmXD7</a></p><p>That’s it for this month! Happy flashing!
+            <description><![CDATA[Hello everyone! Here is this month's worth of updates.]]></description>
+            <content:encoded><![CDATA[<p>Hello everyone! Here is this month's worth of updates.</p><h1>BlissRoms</h1><p>This week, we’re releasing BlissRoms Typhoon v16.5 The changelog is the following:</p><ul><li>Merged February Security Patches</li><li>Bringing Back A11 QS Style with transparency and icon customizations</li><li>Introduction of Aperture Camera as default</li><li>Inclusion of dynamic VoLTE and VoWiFi icons</li><li>Parallel Space Improvements</li><li>Inclusion Of Launcher3 Taskbar completely and other changes</li><li>Introduction of LockScreen Media Art Blur and filters</li><li>Introduction of App Lock</li><li>Bringing back data disabled icon toggles and other statusbar tweaks</li><li>Update APNs for some telecos</li><li>Redesign the Recents view Style along with task locks to recents.</li><li>Misc Improvements and Fixes</li></ul><p>Kind Note that March patches which are going to come out are the Quarterly Patches that Google releases every 4 months, so it will be merged onto source at a later time and would be informed here once merged.</p><p>If anyone would like to maintain BlissRoms for their devices then kindly apply for it using this link <a href="https://forms.gle/LkRgFXzpH1hZLmXD7" target="_blank" rel="noopener noreferrer">https://forms.gle/LkRgFXzpH1hZLmXD7</a></p><p>That’s it for this month! Happy flashing!
 #StayBlissful #FeelTheWind🌪</p>]]></content:encoded>
+            <category>typhoon</category>
+            <category>bliss16</category>
+            <category>android13</category>
         </item>
         <item>
             <title><![CDATA[BlissRoms 16.4 codenamed Typhoon now available]]></title>
