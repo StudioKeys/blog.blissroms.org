@@ -4,10 +4,22 @@
         <title>BlissRoms Blog Blog</title>
         <link>https://blog.blissroms.org/</link>
         <description>BlissRoms Blog Blog</description>
-        <lastBuildDate>Mon, 24 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[BlissRoms 16.7 codenamed Typhoon now available]]></title>
+            <link>https://blog.blissroms.org/2023-05-15-typhoon-16.7-updates-apr-2023</link>
+            <guid>2023-05-15-typhoon-16.7-updates-apr-2023</guid>
+            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello everyone! Here is this month's worth of updates.]]></description>
+            <content:encoded><![CDATA[<p>Hello everyone! Here is this month's worth of updates.</p><h1>BlissRoms</h1><p>This week, we’re releasing BlissRoms Typhoon v16.7 The changelog is the following:</p><ul><li>Merged with May SP</li><li>Introduction of Pulse</li><li>LS Weather </li><li>Statusbar Battery Styles</li><li>Bring back Face Unlock</li><li>Lockscreen Shortcuts and Customizations</li><li>Reticker improvements</li><li>Rebranded new Recovery</li><li>Fix annoying space of LS clock</li><li>Addition of more fonts and fix some old ones</li><li>Bring Back Old Mobile Style Icons</li><li>Colored Icons on Statusbar</li><li>Add 3 button NavBar styles</li><li>Fix Hide IME Space</li><li>Added an option to allow users to reset Battery Stats</li><li>Fix SnapChat delayed messages issue</li><li>Dynamic VoLTE/VoWiFi icons</li><li>Added a toggle to show 4G instead of LTE</li><li>Introduction of Brightness Slider Styles</li><li>Updated AOSP Messages and ThemePicker</li><li>Bring back the old features onto Launcher3</li><li>Misc Improvements and Fixes</li></ul><p>If anyone would like to maintain BlissRoms for their devices then kindly apply for it using this link <a href="https://forms.gle/LkRgFXzpH1hZLmXD7" target="_blank" rel="noopener noreferrer">https://forms.gle/LkRgFXzpH1hZLmXD7</a></p><p>That’s it for this month! Happy flashing!
+#StayBlissful #FeelTheWind🌪</p>]]></content:encoded>
+            <category>typhoon</category>
+            <category>bliss16</category>
+            <category>android13</category>
+        </item>
         <item>
             <title><![CDATA[BlissRoms 16.6 codenamed Typhoon now available]]></title>
             <link>https://blog.blissroms.org/2023-04-24-typhoon-16.6-updates-apr-2023</link>
